@@ -17,7 +17,6 @@
 - 🔭 Currently building **[TradeX](https://github.com/Talha9509/TradeX)** — a high-concurrency spot trading exchange with an in-memory matching engine
 - 🚀 Founder & developer of **[BuildMyIdea](https://buildmyidea.duckdns.org)** — a startup × developer marketplace, launched on [Product Hunt](https://www.producthunt.com/products/build-my-idea)
 - 🌱 Currently learning **Agentic AI**
-- ☁️ **AWS Certified** — cloud architecture fundamentals (EC2, S3, IAM)
 - 💬 Ask me about **Backend Development & System Design**
 - 🗂️ Portfolio: [portfolio-inky-three-16.vercel.app](https://portfolio-inky-three-16.vercel.app)
 - 📄 Resume: [View here](https://drive.google.com/file/d/167CgryVPXscpO-FOk-D6Hu4Fb9t_wk7y/view?usp=sharing)
@@ -45,7 +44,7 @@
 
 **DevOps & Cloud**
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 
 **Tools**
 
@@ -53,7 +52,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔹 [TradeX](https://github.com/Talha9509/TradeX)
 A highly concurrent spot trading exchange with an in-memory matching engine achieving **90ms p95 latency**, built with a Redis Streams event-driven architecture, zero-data-loss disaster recovery, and a real-time WebSocket market-data feed.
@@ -74,34 +73,20 @@ A full-stack uptime monitoring platform with real-time status dashboards and his
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=talha9509&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
-</div>
+</div> -->
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=talha9509&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="talha9509's GitHub stats" height="180"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=talha9509&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="talha9509's GitHub stats" height="180"/> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=talha9509&theme=tokyonight&hide_border=true" alt="talha9509's streak stats" height="180"/>
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=talha9509&theme=tokyo-night&hide_border=true" alt="talha9509's contribution graph" width="100%"/>
-</div>
-
-## 🔥 Top Languages
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha9509&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <p align="center">
 <a href="https://linkedin.com/in/mohd-talha5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
