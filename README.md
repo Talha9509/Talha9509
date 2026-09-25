@@ -27,13 +27,11 @@
 
 </div>
 
-## About Me
 
-- 🔭 Currently building **[TradeX](https://github.com/Talha9509/TradeX)** — a high-concurrency spot trading exchange with an in-memory matching engine
-- 🚀 Founder & developer of **[BuildMyIdea](https://buildmyidea.duckdns.org)** — a startup × developer marketplace, launched on [Product Hunt](https://www.producthunt.com/products/build-my-idea)
-- 🌱 Currently learning **Agentic AI**
-- 💬 Ask me about **Backend Development & System Design**
-- 📫 Reach me: **mawtalha5112004@gmail.com**
+-  Currently building **[TradeX](https://github.com/Talha9509/TradeX)** — a high-concurrency spot trading exchange with an in-memory matching engine
+-  Founder & developer of **[BuildMyIdea](https://buildmyidea.duckdns.org)** — a startup × developer marketplace, launched on [Product Hunt](https://www.producthunt.com/products/build-my-idea)
+-  Currently learning **Agentic AI**
+-  Ask me about **Backend Development & System Design**
 
 ---
 
