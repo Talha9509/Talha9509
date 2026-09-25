@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1DA1F2&height=200&section=header&text=Hi%20👋,%20I'm%20Talha&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Backend%20%26%20System%20Design&descAlignY=58&descSize=18" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1DA1F2&height=200&section=header&text=Hi%20👋,%20I'm%20Talha&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Backend%20%26%20System%20Design&descAlignY=58&descSize=18" width="100%"/> -->
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+TradeX+%E2%80%94+a+real-time+trading+exchange;Founder+%40+BuildMyIdea;Backend+%26+System+Design+Enthusiast;Currently+exploring+Agentic+AI" alt="Typing SVG" />
 
@@ -10,21 +10,34 @@
   <a href="https://twitter.com/mohdtalha732677"><img src="https://img.shields.io/twitter/follow/mohdtalha732677?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow"/></a>
 </p>
 
+<table>
+<tr>
+<td align="center">
+
+[Portfolio](https://portfolio-inky-three-16.vercel.app) · [LinkedIn](https://linkedin.com/in/mohd-talha5) · [X](https://twitter.com/mohdtalha732677) · [Resume](https://drive.google.com/file/d/167CgryVPXscpO-FOk-D6Hu4Fb9t_wk7y/view?usp=sharing)
+
+</td>
+<td align="center">
+
+[TradeX](https://github.com/Talha9509/TradeX) · [BuildMyIdea](https://buildmyidea.duckdns.org) · [BetterUptime](https://betteruptime.duckdns.org)
+
+</td>
+</tr>
+</table>
+
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
 - 🔭 Currently building **[TradeX](https://github.com/Talha9509/TradeX)** — a high-concurrency spot trading exchange with an in-memory matching engine
 - 🚀 Founder & developer of **[BuildMyIdea](https://buildmyidea.duckdns.org)** — a startup × developer marketplace, launched on [Product Hunt](https://www.producthunt.com/products/build-my-idea)
 - 🌱 Currently learning **Agentic AI**
 - 💬 Ask me about **Backend Development & System Design**
-- 🗂️ Portfolio: [portfolio-inky-three-16.vercel.app](https://portfolio-inky-three-16.vercel.app)
-- 📄 Resume: [View here](https://drive.google.com/file/d/167CgryVPXscpO-FOk-D6Hu4Fb9t_wk7y/view?usp=sharing)
 - 📫 Reach me: **mawtalha5112004@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
