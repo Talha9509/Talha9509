@@ -93,13 +93,7 @@ A full-stack uptime monitoring platform with real-time status dashboards and his
 <div align="center">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=talha9509&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="talha9509's GitHub stats" height="180"/> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=talha9509&theme=tokyonight&hide_border=true" alt="talha9509's streak stats" height="180"/>
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha9509&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&count_private=true" alt="Top Languages"/> 
-
-
-
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha9509&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&count_private=true" alt="Top Languages"/>  -->
 </div>
 
 ---
