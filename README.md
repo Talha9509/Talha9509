@@ -39,7 +39,7 @@
 
 **Languages**
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 
 **Frontend**
 
@@ -47,7 +47,7 @@
 
 **Backend & Runtime**
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-4A4A55?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-4A4A55?style=for-the-badge"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 **Databases, Caching & Messaging**
 
@@ -94,11 +94,6 @@ A full-stack uptime monitoring platform with real-time status dashboards and his
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=talha9509&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="talha9509's GitHub stats" height="180"/> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=talha9509&theme=tokyonight&hide_border=true" alt="talha9509's streak stats" height="180"/>
 </div>
-
-[![Top Langs](https://vercel.app)](https://github.com/talha9509/github-readme-stats)
-
-[![Top Langs](https://vercel.app)](https://github.com/talha9509/github-readme-stats)
-
 
 ---
 
