@@ -95,6 +95,11 @@ A full-stack uptime monitoring platform with real-time status dashboards and his
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=talha9509&theme=tokyonight&hide_border=true" alt="talha9509's streak stats" height="180"/>
 </div>
 
+[![Top Langs](https://vercel.app)](https://github.com/talha9509/github-readme-stats)
+
+[![Top Langs](https://vercel.app)](https://github.com/talha9509/github-readme-stats)
+
+
 ---
 
 ## Connect with Me
